@@ -1,0 +1,17 @@
+#-*- coding:utf-8 -*-
+#test
+'''
+username = "郝梦武"
+userage = 18
+print("姓名:",username,"年龄：",userage,sep = '|')
+print("asdsad"+"32")
+
+    print()里面输出流，可以输出常量(数字常量、字符串常量), 可以输出变量，每个单元的输出，需要,或者+连接(但是+只适用于字符串)
+'''
+
+print(40,'\t',end = "")
+print(50,'\t',end = "")
+print(60,'\t',end = "")
+
+f = open("C:\\Users\\梦武好\\Desktop\\比特科技密码.txt","w")
+f.close()
